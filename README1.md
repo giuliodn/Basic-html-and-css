@@ -13,6 +13,7 @@ https://medium.freecodecamp.org/how-to-keep-your-footer-where-it-belongs-59c6aa0
 https://matthewjamestaylor.com/bottom-footer
 
 *I wish to add more in the future*
+_If I do I'll be happy_
 
 
 
